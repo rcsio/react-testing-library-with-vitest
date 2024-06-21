@@ -1,5 +1,5 @@
 {
-  "name": "setup-testing",
+  "name": "react-testing-library-with-vitest",
   "private": true,
   "version": "0.0.0",
   "type": "module",
